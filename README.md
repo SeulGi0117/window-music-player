@@ -57,4 +57,13 @@ Windows Music Player는 사용자의 음악 컬렉션을 재생하고 관리하�
 
 - **Visual Studio** 
 
+## 구현모습
+
+
+![#1](https://github.com/SeulGi0117/window-music-player/raw/main/assets/117719441/17184ad4-8f10-46d9-8dcb-c6db620cfa4c.jpg)
+![#2](https://github.com/SeulGi0117/window-music-player/raw/main/assets/117719441/0b00c243-dffb-43ff-9a90-3dcc6de91995.jpg)
+![#3](https://github.com/SeulGi0117/window-music-player/raw/main/assets/117719441/71311012-db72-4b47-a07c-1cc360d28124.jpg)
+
+
+
 
