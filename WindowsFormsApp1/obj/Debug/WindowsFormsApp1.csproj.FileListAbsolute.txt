@@ -1,0 +1,967 @@
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\이윤서\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Documents\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\pshcc\OneDrive\바탕 화면\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\반복 셔플 추가\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Desktop\사진, 셔플 완성\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Desktop\플레이리스트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Desktop\코드 정리\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Documents\카카오톡 받은 파일\220608 윈도우프로그래밍 발표\220608 윈도우프로그래밍 발표\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\Desktop\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Documents\카카오톡 받은 파일\220614 윈도우프로그래밍 (기말)\220614 윈도우프로그래밍 (기말)\뮤직플레이어(최종)\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Tabulate.NET.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jusan\OneDrive\바탕 화면\project\window-music-player\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

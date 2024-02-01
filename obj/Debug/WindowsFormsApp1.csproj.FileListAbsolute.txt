@@ -1,0 +1,17 @@
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\강슬기\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\강슬기\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\강슬기\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
